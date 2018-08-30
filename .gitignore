@@ -1,0 +1,37 @@
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# kdiff3 ignore
+*.orig
+
+# maven ignore
+target/
+logs/
+log/
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+*.bak
+
+# system ignore
+.DS_Store
+release/
+/bin/
